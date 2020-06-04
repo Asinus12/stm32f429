@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* STM32F429 blaz */
 #include "main.h"
 #include "cmsis_os.h"
@@ -19,8 +18,8 @@ void StartDefaultTask(void const * argument);
 void StartTask02(void const * argument);
 void StartTask03(void const * argument);
 
-/* Added line */
-asdfasdf
+
+
 int main(void)
 {
 
